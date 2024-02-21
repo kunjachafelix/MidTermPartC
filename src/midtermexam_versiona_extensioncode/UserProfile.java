@@ -13,6 +13,12 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+ /**
+     * New added COmments 
+     * Felix K LUkose
+     * 21 February 2024
+     
+     */
 public class UserProfile 
 {
     
